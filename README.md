@@ -1,6 +1,4 @@
-# 1-site
-
-<h1>easy-shopping</h1>
+# easy-shopping
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
@@ -11,3 +9,6 @@
 <h2>Tenologias ultilizadas:</h2>
 <p>- HTML<p>
 <p>- CSS</p>
+<h2> Autor </h2>
+<p>Diego Fagundes da Silva</p>
+www.linkedin.com/in/diego-fagundes-da-silva-694ab71b3
